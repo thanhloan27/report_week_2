@@ -1,0 +1,9 @@
+# Word temporary/lock files
+~$*.docx
+~$*.doc
+*.tmp
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
